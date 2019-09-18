@@ -1,8 +1,8 @@
 # CHANGE JSON TO POSTMAN BODY PARAMATER DATA
 Convert Json To Postmana Body Param
-#INPUT 
+# INPUT 
 [GET] : json
-#Example : 
+# Example : 
 http://example.com/jsontopostmandata?json={"name":"John",%20"age":31,%20"city":"New%20York"}
-#Usage : 
+# Usage : 
 pass ?json parameter url an enjoy the result :(
